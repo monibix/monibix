@@ -6,8 +6,6 @@
 <img src="./assets/node.svg" alt="node" width="50px">
 </p>
 
-<br/>
-
 ### About me
 
 I'm a full-stack web developer who find on technology and coding a path to grow and improve personal and professionally day by day. <br><br>
